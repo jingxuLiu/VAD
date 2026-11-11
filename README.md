@@ -1,6 +1,7 @@
 # VAD: Visual–Affective Decoding Framework
 
-Code for *"Visual–Affective Decoding from Naturalistic fMRI for Adolescent Depression Diagnosis."*
+This is the official code for the paper "Visual-affective decoding enhances neurofunctional objective and generalizable signatures in unseen adolescent depression diagnosis" ([https://www.nature.com/articles/s41746-026-03413-8]()). [**npj Digital Medicine 2026**]
+
 
 ---
 
